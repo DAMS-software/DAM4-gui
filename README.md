@@ -14,7 +14,7 @@ pip install matplotlib==3.2.2
 pip install openpyxl==3.0.5
 ```
 
-Download repository https://github.com/DAMS-software/DAM4-gui.git
+Download repository https://github.com/DAMS-software/DAM4-gui/archive/master.zip
 
 Run *main.py* to start program.
 ```
