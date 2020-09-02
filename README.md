@@ -1,6 +1,6 @@
 # DAM4-gui
 
-[![build](https://img.shields.io/badge/build-passing-brightgreen)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
 [![version](https://img.shields.io/badge/version-0.6.1-yellow.svg)](https://semver.org)
 
 License
