@@ -23,3 +23,12 @@ C:\Users\user>main.py
 
 
 ## Citations
+https://doi.org/10.1111/adb.12963
+```
+@article{doi:10.1111/adb.12963,
+author = {Rigo, Franka and Filošević, Ana and Petrović, Milan and Jović, Katarina and Andretić Waldowski, Rozi},
+title = {Locomotor sensitization modulates voluntary self-administration of methamphetamine in Drosophila melanogaster},
+journal = {Addiction Biology},
+keywords = {Drosophila melanogaster, locomotor sensitization, methamphetamine preference, period gene, self-administration},
+}
+```
