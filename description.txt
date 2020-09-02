@@ -1,0 +1,48 @@
+Introduction
+__________
+
+The pandastable library provides a table widget for Tkinter with
+plotting and data manipulation functionality. It uses the pandas
+DataFrame class to store table data. Pandas is an open source Python
+library providing high-performance data structures and data analysis
+tools. Tkinter is the standard GUI toolkit for python. It is intended
+for the following uses:
+
+-  for python/tkinter GUI developers who want to include a table in
+   their application that can store and process large amounts of data
+-  for non-programmers who are not familiar with Python or the pandas
+   API and want to use the included DataExplore application to
+   manipulate/view their data
+-  it may also be useful for data analysts and programmers who want to
+   get an initial interactive look at their tabular data without coding
+
+
+The flyGUI
+__________
+This is a standalone application for
+data manipulation and plotting meant for education and basic data
+analysis. Main purpose of this application is analyzing data created from 
+monitoring wine fly activity with DAM1 monitor. Data is represented in format
+date \tab time \tab activity1 \tab activity2 \tab ...
+On first screen user browse for datat. 
+After loading data in app User opoens Data Selection screen and selects
+flies(columns) and time period(rows). Columns can only be selected 
+as series(E.g. 1,2,3,4) not separated(1,3,6,9) inthis version. 
+The user is offered the possibility of saving the data in .txt and .xlsx format.
+User can select up to 4 individual data frames, this is created becouse experiment where
+we measure data can have phases. 
+
+On second screen Data Visualizaton results form selected data are represented.
+Results can be represented for each individual fly or entire population. 
+
+statistical values are calculated (average, sum and standard deviation).
+For population Average (average movement in each row), Sum(total movement in eachrow).
+For each we take transposed table so we get time as columns and in each row is fly activity data.
+
+Data is representedin graphs which can be saved. 
+
+
+See the home page for this application at
+
+Links
+__________S
