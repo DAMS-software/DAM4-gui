@@ -1,5 +1,8 @@
 # DAM4-gui
+
+[![version](https://img.shields.io/badge/build-passing-brightgreen)]
 [![version](https://img.shields.io/badge/version-0.6.1-yellow.svg)](https://semver.org)
+
 License
 ## Introduction
 Wellcome to Python software for processing data from DAM4 software. This program enables user to select specifict columns and rows. On selected data it is possible to perform statistical processing of selected data (mean, se, sum). 
