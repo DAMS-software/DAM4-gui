@@ -23,7 +23,6 @@ Run *main.py* to start program.
 C:\Users\user>main.py
 ```
 
-
 ## Citations
 https://doi.org/10.1111/adb.12963
 ```
