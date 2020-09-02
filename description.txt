@@ -45,4 +45,4 @@ Data is representedin graphs which can be saved.
 See the home page for this application at
 
 Links
-__________S
+https://github.com/DAMS-software/DAM4-gui/blob/master/README.md
